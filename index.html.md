@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Mr. Dunlea's Class</title>
+  </head>
+  <body bgcolor="#DAF7A6">
+    <a href="index.html">Home</a>
+    <a href="file:///H:/Website/portfolio.html.html">Portfolio</a>
+    <a href="file:///H:/Website/aboutme.html.html">About Me</a>
+    <center style="background-color: aquamarine;">
+	<h1>Joshua Kim</h1>
+      <h2>My House</h2>
+      <img src="https://ssl.cdn-redfin.com/photo/48/mbmobile/407/genMbmob.200047407_C.jpg" height="400" alt="centered image" class="aligncenter">
+      <h2>My Fish</h2>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoWKDARr-rGvQ3Opi3CqEXRns9E9ZGGJbYQA:https://bettafishcenter.com/wp-content/uploads/2019/11/getting-to-know-your-betta.jpg&usqp=CAU" height="400" alt="centered image" class="aligncenter">
+      <h2>My Team</h2>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAAQLa_NdCTotaQIHgXE35KWopBpxi2Aun0SIGWwvbTCKfewFgBij4Z8tCQr5r94xRQ0:https://static.hudl.com/users/prod/11319436_05977c26327b477498b51272c16ed19e.jpg&usqp=CAU" height="400" alt="centered image" class="aligncenter">
+      <h2>My Car</h2>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUa9CIMYzCuA3ezsT1qrr1QOoNSAnFsD3JDoiahB6mnmis4Rf1HqoJ4VAvdENDjai8XoI:cdn.carbuzz.com/gallery-images/1600/1078000/800/1078852.jpg&usqp=CAU" height="400" alt="centered image" class="aligncenter">
+   </center>
+  <br>
+    
+  </body>
+</html>
+ding index.html.html…]()
